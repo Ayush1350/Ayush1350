@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Frontend Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer+|+React+%7C+Next.js;Crafting+Beautiful+UIs+With+Tailwind+%26+Material+UI;Always+Learning+%26+Building"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+Awesome+UIs;Always+Learning+%26+Improving" />
 </p>
+
 
 ---
 
@@ -55,7 +56,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush1350&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1350&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush1350&theme=react&hide_border=true" alt="GitHub Streak"/>
 </p>
