@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+Awesome+UIs;Always+Learning+%26+Improving" />
 </p>
 
-
 ---
 
 ### 🚀 About Me:
+
 - 💻 Frontend Developer with expertise in **React.js, Next.js, and React Native**.
 - 🎨 Love crafting **responsive** and **aesthetic UIs** with **Tailwind CSS** & **Material UI**.
 - 📚 Constant learner exploring **new technologies** and **best practices**.
@@ -19,6 +19,7 @@
 ### 🛠️ Tech Stack & Tools:
 
 #### 🚀 Frontend
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -31,12 +32,14 @@
 </p>
 
 #### 📱 Mobile Development
+
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 #### 🔧 Backend & Databases
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -46,6 +49,7 @@
 </p>
 
 #### ⚙️ Dev Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -55,14 +59,16 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1350&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush1350&theme=react&hide_border=true" alt="GitHub Streak"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayush1350&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
 
 ### 📫 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/ayush1350" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -74,8 +80,3 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-
----
-
-✨ **Thanks for stopping by! Happy Coding! 🚀**
