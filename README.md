@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1350&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush1350&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com/?user=ayush1350&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
